@@ -20,9 +20,10 @@ body, html {
 }
 .app-title {
     color: #2c3e50;
-    margin-bottom: 20px;
-    font-size: 2.5em;
+    margin-bottom: 30px;
+    font-size: 3em;
     text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
 }
 .input-container {
     display: flex;
