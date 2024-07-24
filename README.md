@@ -66,14 +66,20 @@ python app.py
 4. **Visualization**: The graph is rendered using Plotly, creating an interactive visualization.
 5. **User Interaction**: Dash handles user interactions, updating the display dynamically.
 
-## 🛣️ Roadmap
 
-- [ ] Implement user accounts for saving and sharing graphs
-- [ ] Add support for multiple languages
-- [ ] Integrate with other knowledge bases beyond Wikipedia
-- [ ] Develop an API for programmatic access to the graph generation
-- [ ] Create a mobile app version
+## 🛣️ Roadmap (ordered by importance)
+Here's the list of roadmap items ordered by importance, starting with the most important:
 
+1. [ ] Design a metric to evaluate the 'Essence-ness' of the nodes selected by the model
+2. [ ] Add a multi-directional option to show connections between multiple nodes
+3. [ ] Improve UX by making the graph more dynamic with pictures and different node styles based on entity type
+4. [ ] Add more options for the graph to cater to different contexts such as history, economy, etc.
+5. [ ] Implement user accounts for saving and sharing graphs
+6. [ ] Integrate with other knowledge bases beyond Wikipedia
+7. [ ] Add a 'helpful' button to the nodes; clicking it will save the relationship for future learning to enhance user-specific performance
+8. [ ] Develop an API for programmatic access to the graph generation
+9. [ ] Add support for multiple languages
+10. [ ] Create a mobile app version
 
 ## 🙏 Acknowledgements
 
