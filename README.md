@@ -6,7 +6,7 @@
 [![Dash](https://img.shields.io/badge/dash-2.9.3-blue.svg)](https://dash.plotly.com/)
 [![OpenAI](https://img.shields.io/badge/openai-0.27.8-green.svg)](https://openai.com/)
 
-[Live Demo](https://drive.google.com/file/d/1CB62863y5u4NnbEf8lOXo4HoETLBdtsR/view?usp=sharing)
+[Live Demo](https://drive.google.com/file/d/1M3nChuF5qrNbZK7qEtQysJ79eJJQ6fZ6/view?usp=drive_link)
 
 ## 🌟 Overview
 
